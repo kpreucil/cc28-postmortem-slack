@@ -1,0 +1,59 @@
+Post-Mortem for Slack Clone Project
+
+I think that the project went well overall. It seemed to be a good jumping off point of what we have learned as a class. 
+
+I worked with a partner(Melissa), and I think we did well together even though we did not complete all of the instructions. I made a point to make sure that I understood everything we were doing to the best of my ability. We successfully envisioned a method of storing data with the knowledge we had and getting it to work. I can also visualize how I would create channels that link to different chats, but would struggle with the code to get it to work right when I got there. 
+
+Some things that went well were:
+
+	1. Creating the functions to be able to log in from a stored username and password and being able to create new accounts from the browser. 
+
+	2. I spent a fair amount of time working on understanding how react and node worked together so that I could understand where I need to put my code.
+
+	3. I also spent a good amount of time studying sessions and cookies to implement into my code, only to then realize they were already there. I think that while some might think it was a waste of time, it was actually really helpful as it confirmed that I was understanding the resources and also getting more familiar with how the code worked. 
+
+	4. Recognizing the separation of front and back-end files. 
+
+	5. Realizing where react was coming into play. (It wan't as much as I thought).
+
+	6. Working with another person to conceptualize the project and functions needed.
+
+	7. Helping my partner catch up to my code by debugging problems they came across.
+
+What I might do differently in the future:
+
+	1. I know that my functions to read and write to the flat files could have been re-used instead of creating it specifically for each flat file that I had and would likely change this in the future.
+
+	2. I didn't want to get too far ahead of my partner so I didn't work too much on it over the weekend. I focused my attention more on resume editing. However, in the future I think I would spend my time researching next steps and getting more familiar/comfortable with the frameworks we were utilizing.
+
+	3. I need to get more familiar with jQuery as I still don't recognize when I should be trying to implement it into my code. (aka MessageForm)
+
+
+What was the single most frustrating part of the project?
+	I think the most frustrating part of the project for me was needing to slow down to help my partner. The benefit is that I was able to figure out how to explain it which is good for me.
+
+How would you do things differently next time to avoid this frustration?
+	IDK, I feel like making sure that everyone on a team is on the same page is important. Maybe in the future I would research the next step/framework more and allow them to take more time to try and debug more themselves before providing another set of eyes?
+
+Were the goals of the project clear to you?
+	I think so. The idea was for us to get more comfortable using node and also start understanding and creating a full stack app.
+
+How complete do you think the planning was before the actual commencement of work?  What could have been improved?
+	Our planning was not complete as far as the entirety of the project. However, we did plan out each next step before starting and had a general idea of how it would work in the bigger picture. I think it was realistic for our level of coding, but in the future maybe spend more time on the big picture before focusing on the smaller details.
+	
+Questions this project raised for me
+	Mostly questions about react:
+		How to maximize the dynamic rendering support it provides.
+		How it connects with node.
+		The path of the functions and how they worked together and when they worked separately.
+
+Concepts I am pretty comfortable with:
+	Separation of the back and front end
+	Organization of the back end (pretty well)
+	
+Concepts I am still fuzzy on:
+	How react works
+	Organization of the functions for react
+	
+	
+		
